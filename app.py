@@ -15,7 +15,7 @@ import os
 
 # ── Config ───────────────────────────────────────────────────────────────────
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://support-copilot-api-4khe.onrender.com"
 
 st.set_page_config(
     page_title="Support Knowledge Copilot",
