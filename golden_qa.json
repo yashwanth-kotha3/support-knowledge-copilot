@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I reset my password?",
+    "expected_sources": ["password_reset.md"],
+    "no_answer_expected": false
+  },
+  {
+    "question": "What does error code AUTH_401 mean?",
+    "expected_sources": ["api_auth.md"],
+    "no_answer_expected": false
+  },
+  {
+    "question": "How long is a password reset link valid for?",
+    "expected_sources": ["password_reset.md"],
+    "no_answer_expected": false
+  },
+  {
+    "question": "What is the refund policy for annual subscriptions?",
+    "expected_sources": [],
+    "no_answer_expected": true
+  },
+  {
+    "question": "What prefix do live API keys start with?",
+    "expected_sources": ["api_auth.md"],
+    "no_answer_expected": false
+  }
+]
